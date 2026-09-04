@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+pandas
+python-Levenshtein
+scikit-learn
+sentencepiece
+tensorflow

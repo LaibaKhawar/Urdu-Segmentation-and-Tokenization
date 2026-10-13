@@ -2,7 +2,7 @@
 
 A rule-based Urdu sentence segmenter that splits on sentence-ending verbs and auxiliaries while guarding against conjunctions, compared with UrduHack, plus a SentencePiece BPE model trained on an Urdu corpus.
 
-**Interactive demo:** [Run it in your browser](https://laiba-khawar-portfolio.vercel.app/work/urdu-segmentation#demo)
+**Interactive demo:** [Run it in your browser](https://www.laibakhawar.com/work/urdu-segmentation#demo)
 
 ## How it works
 
@@ -70,4 +70,4 @@ Notes:
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
